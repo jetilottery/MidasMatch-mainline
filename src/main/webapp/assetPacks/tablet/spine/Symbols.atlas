@@ -1,0 +1,785 @@
+
+Symbols.jpg
+size: 1949,549
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coinParticles/coinParticles_31
+  rotate: true
+  xy: 2, 364
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+coinParticles/coinParticles_32
+  rotate: true
+  xy: 2, 179
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+coinParticles/coinParticles_33
+  rotate: false
+  xy: 2, 2
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+coinParticles/coinParticles_34
+  rotate: true
+  xy: 179, 364
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+coinParticles/coinParticles_35
+  rotate: true
+  xy: 179, 179
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+coinParticles/coinParticles_36
+  rotate: false
+  xy: 187, 2
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+coinParticles/coinParticles_37
+  rotate: true
+  xy: 356, 364
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+coinParticles/coinParticles_38
+  rotate: true
+  xy: 356, 179
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+coinParticles/coinParticles_39
+  rotate: false
+  xy: 372, 2
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+coinParticles/coinParticles_40
+  rotate: true
+  xy: 533, 364
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+coinParticles/coinParticles_41
+  rotate: true
+  xy: 533, 179
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+coinParticles/coinParticles_42
+  rotate: false
+  xy: 557, 2
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+coinParticles/coinParticles_43
+  rotate: true
+  xy: 710, 364
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+coinParticles/coinParticles_44
+  rotate: true
+  xy: 710, 179
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+coinParticles/coinParticles_45
+  rotate: false
+  xy: 742, 2
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+coinParticles/coinParticles_46
+  rotate: true
+  xy: 887, 364
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+coinParticles/coinParticles_47
+  rotate: true
+  xy: 887, 179
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+coinParticles/coinParticles_48
+  rotate: false
+  xy: 927, 2
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+coinParticles/coinParticles_49
+  rotate: true
+  xy: 1064, 364
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+coinParticles/coinParticles_50
+  rotate: true
+  xy: 1064, 179
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+coinParticles/coinParticles_51
+  rotate: false
+  xy: 1112, 2
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+coinParticles/coinParticles_52
+  rotate: true
+  xy: 1241, 364
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+coinParticles/coinParticles_53
+  rotate: true
+  xy: 1241, 179
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+coinParticles/coinParticles_54
+  rotate: false
+  xy: 1297, 2
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+coinParticles/coinParticles_55
+  rotate: true
+  xy: 1418, 364
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+coinParticles/coinParticles_56
+  rotate: true
+  xy: 1418, 179
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+coinParticles/coinParticles_57
+  rotate: false
+  xy: 1482, 2
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+coinParticles/coinParticles_58
+  rotate: false
+  xy: 1595, 372
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+coinParticles/coinParticles_59
+  rotate: true
+  xy: 1595, 187
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+coinParticles/coinParticles_60
+  rotate: true
+  xy: 1667, 2
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+coinParticles/coinParticles_61
+  rotate: true
+  xy: 1772, 187
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+
+Symbols2.jpg
+size: 1574,526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/S10Match 2_16
+  rotate: false
+  xy: 2, 264
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+nonTrans/S11Match 2_16
+  rotate: false
+  xy: 2, 2
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+nonTrans/S1Match 2_16
+  rotate: false
+  xy: 264, 264
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+nonTrans/S2Match 2_16
+  rotate: false
+  xy: 264, 2
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+nonTrans/S3Match 2_16
+  rotate: false
+  xy: 526, 264
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+nonTrans/S4Match 2_16
+  rotate: false
+  xy: 526, 2
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+nonTrans/S5Match 2_16
+  rotate: false
+  xy: 788, 264
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+nonTrans/S6Match 2_16
+  rotate: false
+  xy: 788, 2
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+nonTrans/S7Match 2_16
+  rotate: false
+  xy: 1050, 264
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+nonTrans/S8Match 2_16
+  rotate: false
+  xy: 1050, 2
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+nonTrans/S9Match 2_16
+  rotate: false
+  xy: 1312, 264
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+
+Symbols.png
+size: 1829,313
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TRANS/infoBonusCoin
+  rotate: false
+  xy: 1118, 30
+  size: 99, 102
+  orig: 99, 102
+  offset: 0, 0
+  index: -1
+TRANS/infoBonusWheel
+  rotate: false
+  xy: 1412, 42
+  size: 99, 100
+  orig: 99, 100
+  offset: 0, 0
+  index: -1
+TRANS/symbol1
+  rotate: false
+  xy: 672, 2
+  size: 132, 128
+  orig: 180, 156
+  offset: 20, 0
+  index: -1
+TRANS/symbol10
+  rotate: false
+  xy: 940, 12
+  size: 176, 120
+  orig: 180, 156
+  offset: 4, 0
+  index: -1
+TRANS/symbol10_Match
+  rotate: true
+  xy: 1099, 134
+  size: 177, 85
+  orig: 180, 156
+  offset: 3, 0
+  index: -1
+TRANS/symbol11
+  rotate: true
+  xy: 819, 134
+  size: 177, 138
+  orig: 180, 156
+  offset: 1, 0
+  index: -1
+TRANS/symbol11_Match
+  rotate: true
+  xy: 959, 134
+  size: 177, 138
+  orig: 180, 156
+  offset: 1, 0
+  index: -1
+TRANS/symbol1_Match
+  rotate: false
+  xy: 806, 2
+  size: 132, 128
+  orig: 180, 156
+  offset: 20, 0
+  index: -1
+TRANS/symbol2
+  rotate: false
+  xy: 2, 2
+  size: 180, 127
+  orig: 180, 156
+  offset: 0, 0
+  index: -1
+TRANS/symbol2_Match
+  rotate: false
+  xy: 184, 2
+  size: 180, 127
+  orig: 180, 156
+  offset: 0, 0
+  index: -1
+TRANS/symbol3
+  rotate: false
+  xy: 1513, 45
+  size: 156, 98
+  orig: 180, 156
+  offset: 12, 0
+  index: -1
+TRANS/symbol3_Match
+  rotate: false
+  xy: 1671, 45
+  size: 156, 98
+  orig: 180, 156
+  offset: 12, 0
+  index: -1
+TRANS/symbol4
+  rotate: true
+  xy: 591, 132
+  size: 179, 112
+  orig: 180, 156
+  offset: 1, 0
+  index: -1
+TRANS/symbol4_Match
+  rotate: true
+  xy: 705, 132
+  size: 179, 112
+  orig: 180, 156
+  offset: 1, 0
+  index: -1
+TRANS/symbol5
+  rotate: false
+  xy: 1219, 4
+  size: 95, 138
+  orig: 180, 156
+  offset: 42, 0
+  index: -1
+TRANS/symbol5_Match
+  rotate: false
+  xy: 1316, 4
+  size: 94, 138
+  orig: 180, 156
+  offset: 44, 0
+  index: -1
+TRANS/symbol6
+  rotate: true
+  xy: 366, 4
+  size: 125, 151
+  orig: 180, 156
+  offset: 29, 0
+  index: -1
+TRANS/symbol6_Match
+  rotate: true
+  xy: 519, 4
+  size: 125, 151
+  orig: 180, 156
+  offset: 29, 0
+  index: -1
+TRANS/symbol7
+  rotate: true
+  xy: 1496, 145
+  size: 166, 146
+  orig: 180, 156
+  offset: 8, 0
+  index: -1
+TRANS/symbol7_Match
+  rotate: true
+  xy: 1644, 145
+  size: 166, 146
+  orig: 180, 156
+  offset: 8, 0
+  index: -1
+TRANS/symbol8
+  rotate: true
+  xy: 2, 131
+  size: 180, 156
+  orig: 180, 156
+  offset: 0, 0
+  index: -1
+TRANS/symbol8_Match
+  rotate: true
+  xy: 160, 131
+  size: 180, 156
+  orig: 180, 156
+  offset: 0, 0
+  index: -1
+TRANS/symbol9
+  rotate: true
+  xy: 455, 131
+  size: 180, 134
+  orig: 180, 156
+  offset: 0, 0
+  index: -1
+TRANS/symbol9_Match
+  rotate: true
+  xy: 318, 131
+  size: 180, 135
+  orig: 180, 156
+  offset: 0, 0
+  index: -1
+TRANS/symbolCoinBonus
+  rotate: true
+  xy: 1186, 144
+  size: 167, 153
+  orig: 180, 156
+  offset: 6, 0
+  index: -1
+TRANS/symbolWheelBonus
+  rotate: true
+  xy: 1341, 144
+  size: 167, 153
+  orig: 180, 156
+  offset: 6, 0
+  index: -1
+
+Symbols2.png
+size: 1954,491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TRANS/MATCH/MatchGOLD_00
+  rotate: false
+  xy: 197, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+TRANS/MATCH/MatchGOLD_01
+  rotate: false
+  xy: 1277, 78
+  size: 184, 198
+  orig: 280, 280
+  offset: 36, 43
+  index: -1
+TRANS/MATCH/MatchGOLD_02
+  rotate: true
+  xy: 1095, 278
+  size: 211, 199
+  orig: 280, 280
+  offset: 36, 42
+  index: -1
+TRANS/MATCH/MatchGOLD_03
+  rotate: true
+  xy: 2, 3
+  size: 226, 193
+  orig: 280, 280
+  offset: 23, 43
+  index: -1
+TRANS/MATCH/MatchGOLD_04
+  rotate: true
+  xy: 437, 11
+  size: 224, 190
+  orig: 280, 280
+  offset: 25, 41
+  index: -1
+TRANS/MATCH/MatchGOLD_05
+  rotate: false
+  xy: 629, 21
+  size: 211, 214
+  orig: 280, 280
+  offset: 32, 32
+  index: -1
+TRANS/MATCH/MatchGOLD_06
+  rotate: false
+  xy: 1087, 8
+  size: 188, 236
+  orig: 280, 280
+  offset: 45, 22
+  index: -1
+TRANS/MATCH/MatchGOLD_07
+  rotate: false
+  xy: 489, 237
+  size: 158, 252
+  orig: 280, 280
+  offset: 61, 14
+  index: -1
+TRANS/MATCH/MatchGOLD_08
+  rotate: false
+  xy: 2, 231
+  size: 148, 258
+  orig: 280, 280
+  offset: 76, 11
+  index: -1
+TRANS/MATCH/MatchGOLD_09
+  rotate: false
+  xy: 152, 232
+  size: 156, 257
+  orig: 280, 280
+  offset: 74, 13
+  index: -1
+TRANS/MATCH/MatchGOLD_10
+  rotate: false
+  xy: 310, 237
+  size: 177, 252
+  orig: 280, 280
+  offset: 59, 19
+  index: -1
+TRANS/MATCH/MatchGOLD_11
+  rotate: false
+  xy: 890, 246
+  size: 203, 243
+  orig: 280, 280
+  offset: 43, 26
+  index: -1
+TRANS/MATCH/MatchGOLD_12
+  rotate: true
+  xy: 197, 5
+  size: 225, 238
+  orig: 280, 280
+  offset: 30, 28
+  index: -1
+TRANS/MATCH/MatchGOLD_13
+  rotate: true
+  xy: 842, 3
+  size: 237, 243
+  orig: 280, 280
+  offset: 22, 24
+  index: -1
+TRANS/MATCH/MatchGOLD_14
+  rotate: false
+  xy: 649, 242
+  size: 239, 247
+  orig: 280, 280
+  offset: 20, 21
+  index: -1
+TRANS/MATCH/MatchGOLD_15
+  rotate: false
+  xy: 1766, 10
+  size: 157, 101
+  orig: 280, 280
+  offset: 100, 164
+  index: -1
+TRANS/MATCH/MatchGOLD_16
+  rotate: true
+  xy: 1742, 329
+  size: 160, 101
+  orig: 280, 280
+  offset: 99, 162
+  index: -1
+TRANS/MATCH/MatchGOLD_17
+  rotate: true
+  xy: 1573, 159
+  size: 164, 104
+  orig: 280, 280
+  offset: 98, 158
+  index: -1
+TRANS/MATCH/MatchGOLD_18
+  rotate: true
+  xy: 1636, 325
+  size: 164, 104
+  orig: 280, 280
+  offset: 97, 157
+  index: -1
+TRANS/MATCH/MatchGOLD_19
+  rotate: true
+  xy: 1296, 323
+  size: 166, 107
+  orig: 280, 280
+  offset: 96, 156
+  index: -1
+TRANS/MATCH/MatchGOLD_20
+  rotate: true
+  xy: 1463, 157
+  size: 165, 108
+  orig: 280, 280
+  offset: 96, 155
+  index: -1
+TRANS/MATCH/MatchGOLD_21
+  rotate: true
+  xy: 1679, 160
+  size: 163, 112
+  orig: 280, 280
+  offset: 101, 151
+  index: -1
+TRANS/MATCH/MatchGOLD_22
+  rotate: true
+  xy: 1517, 325
+  size: 164, 117
+  orig: 280, 280
+  offset: 102, 149
+  index: -1
+TRANS/MATCH/MatchGOLD_23
+  rotate: true
+  xy: 1405, 324
+  size: 165, 110
+  orig: 280, 280
+  offset: 102, 156
+  index: -1
+TRANS/MATCH/MatchGOLD_24
+  rotate: false
+  xy: 1793, 113
+  size: 157, 105
+  orig: 280, 280
+  offset: 102, 156
+  index: -1
+TRANS/MATCH/MatchGOLD_25
+  rotate: false
+  xy: 1793, 220
+  size: 159, 107
+  orig: 280, 280
+  offset: 102, 157
+  index: -1
+TRANS/MATCH/MatchGOLD_26
+  rotate: true
+  xy: 1845, 332
+  size: 157, 107
+  orig: 280, 280
+  offset: 104, 157
+  index: -1
+TRANS/MATCH/MatchGOLD_27
+  rotate: true
+  xy: 1666, 26
+  size: 131, 98
+  orig: 280, 280
+  offset: 130, 157
+  index: -1
+TRANS/MATCH/MatchGOLD_28
+  rotate: true
+  xy: 1562, 23
+  size: 132, 102
+  orig: 280, 280
+  offset: 129, 157
+  index: -1
+TRANS/MATCH/MatchGOLD_29
+  rotate: true
+  xy: 1463, 21
+  size: 134, 97
+  orig: 280, 280
+  offset: 128, 162
+  index: -1
+TRANS/MATCH/MatchGOLD_30
+  rotate: false
+  xy: 1364, 12
+  size: 88, 64
+  orig: 280, 280
+  offset: 174, 163
+  index: -1
+TRANS/MATCH/MatchGOLD_31
+  rotate: false
+  xy: 1277, 11
+  size: 85, 65
+  orig: 280, 280
+  offset: 176, 164
+  index: -1
+
+Symbols3.png
+size: 177,74
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TRANS/S10flame/s10fire_00
+  rotate: true
+  xy: 2, 6
+  size: 34, 53
+  orig: 36, 60
+  offset: 2, 0
+  index: -1
+TRANS/S10flame/s10fire_03
+  rotate: true
+  xy: 2, 42
+  size: 30, 53
+  orig: 36, 60
+  offset: 4, 0
+  index: -1
+TRANS/S10flame/s10fire_06
+  rotate: true
+  xy: 57, 40
+  size: 32, 54
+  orig: 36, 60
+  offset: 4, 0
+  index: -1
+TRANS/S10flame/s10fire_09
+  rotate: true
+  xy: 113, 39
+  size: 33, 57
+  orig: 36, 60
+  offset: 2, 0
+  index: -1
+TRANS/S10flame/s10fire_12
+  rotate: true
+  xy: 57, 3
+  size: 34, 57
+  orig: 36, 60
+  offset: 1, 0
+  index: -1
+TRANS/S10flame/s10fire_15
+  rotate: true
+  xy: 116, 2
+  size: 35, 59
+  orig: 36, 60
+  offset: 1, 0
+  index: -1
+
+Symbols3.jpg
+size: 405,406
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yellowCircle/yellowcirlce
+  rotate: false
+  xy: 2, 2
+  size: 401, 402
+  orig: 401, 402
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+{
+  "urls": [
+    "ch8.ogg",
+    "ch8.m4a"
+  ],
+  "sprite": {
+    "CoinBonusReveal": [
+      0,
+      2280
+    ],
+    "UI_BetUpBtn": [
+      3050,
+      1067.8458049886617
+    ],
+    "WheelBonusReveal": [
+      5100,
+      2500
+    ]
+  }
+}

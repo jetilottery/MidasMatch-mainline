@@ -1,0 +1,92 @@
+﻿{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "è pari a {@minRTP}%",
+    "RTPrange": "è compreso tra {@minRTP}% e {@maxRTP}%",
+    "paybackTitle": "Ritorno previsto",
+    "paybackBody": "Il ritorno teorico a lungo termine previsto per questo gioco {RTP}.",
+    "subheading": "Prezzo biglietto: {ticketCost}",
+    "prizeLevel": "Livello del premio",
+    "prizeValue": "Valore del premio",
+    "description": "Descrizione",
+    "tilePrizeDescription": "Vincita di simboli corrispondenti",
+    "coinPrizeDescription": "Vincita del Bonus Gettone",
+    "wheelPrizeDescription": "Vincita del Bonus Ruota",
+		"overallChances": "Nel complesso, vi è 1 possibilità su {odds} di vincere un premio in ogni partita.",
+    "prizeDivision": "Divisione del premio",
+    "prizeRemaining": "Premi rimanenti approssimativamente",
+    "oddsPerPlay": "Probabilità per partita"
+  },
+  "title": "MODELLO",
+  "MenuCommand": {
+    "price": "Prezzo",
+    "stake": "Puntata",
+    "howToPlay": "Aiuto",
+    "paytable": "Tabella dei pagamenti",
+    "close": "Chiudi",
+    "audio": {
+      "sound": "Audio",
+      "on": "On",
+      "off": "Off"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Errore: ",
+    "genericErrorText": "Si è verificato un errore interno. ESCI e riavvia il gioco."
+  },
+  "Game": {
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "PREZZO BIGLIETTO",
+    "ticketSelect_ticketCost": "PREZZO BIGLIETTO",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "PROVA "
+    },
+    "footer_win": {
+      "BUY": "VINCITA",
+      "TRY": "VINCITA DEMO"
+    },
+    "button_buy": {
+      "BUY": "ACQUISTA",
+      "TRY": "PROVA"
+    },
+    "button_try": "PROVA",
+    "button_continue": "CONTINUA",
+	"button_retry": "RIPROVA",
+    "button_moveToMoney": "GIOCA CON DENARO REALE",
+    "button_autoPlay": "MOSTRA TUTTI",
+    "button_stop": "STOP",
+    "button_playAgain": {
+      "BUY": "GIOCA ANCORA",
+      "TRY": "RIPROVA"
+    },
+    "button_tryAgain": "RIPROVA",
+    "button_ok": "OK",
+    "button_exit": "ESCI",
+    "wb_button_start": "INIZIA",
+    "error_button_exit": "ESCI",
+    "error_title": "ERRORE",
+    "message_nonWin": "SARAI PIÙ FORTUNATO\nLA PROSSIMA VOLTA",
+    "message_win": {
+      "BUY": "VINCITA TOTALE",
+      "TRY": "VINCITA DEMO TOTALE"
+    },
+    "plateBonus": "BONUS",
+    "coinDesc": "Seleziona i gettoni per rivelare i premi.\nRivela l’opzione RISCUOTI per terminare il Bonus.",
+    "coinTotal": "VINCITA BONUS {0}",
+    "coinCollect": "RISCUOTI",
+    "wheelDesc": "Premi INZIA per far girare la ruota.",
+    "wheelSpin": "GIRO IN CORSO",
+    "wheelWin": "VINCITA BONUS",
+    "youWon": "VINCITA BONUS {0}",
+    "howToPlay": "COME SI GIOCA",
+    "coinBonus": "BONUS GETTONE",
+    "wheelBonus": "BONUS RUOTA",
+    "page1": "Seleziona ogni casella per rivelare un simbolo e un importo del premio.\n\nTrova tre simboli uguali per vincere un premio.\n\nRivela un gettone dorato per accedere alla partita Bonus.\n\n",
+    "page2": "Seleziona i gettoni per rivelare i premi.\n\nRivela l’opzione RISCUOTI per terminare il Bonus.",
+    "page3": "Premi INZIA per far girare la ruota.\n\nVinci l’importo evidenziato quando si ferma la ruota.",
+    "winUpTo": "VINCI FINO A",
+    "winUpTo2": "{0}!",
+    "revealForBonus": "RIVELA UN GETTONE DORATO PER\nACCEDERE ALLA PARTITA BONUS"
+  }
+}

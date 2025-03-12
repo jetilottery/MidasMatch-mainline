@@ -1,0 +1,92 @@
+{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "wynosi {@minRTP}%",
+    "RTPrange": "wynosi od {@minRTP}% do {@maxRTP}%",
+    "paybackTitle": "Oczekiwany zwrot",
+    "paybackBody": "Długoterminowy, teoretycznie oczekiwany zwrot tej gry wynosi {RTP}.",
+    "subheading": "Opłata za LOS: {ticketCost}",
+    "prizeLevel": "Stopień wygranej",
+    "prizeValue": "Wartość wygranej",
+    "description": "Opis",
+    "tilePrizeDescription": "Wygrana dopasowania symbolu",
+    "coinPrizeDescription": "Wygrana bonusu monety",
+    "wheelPrizeDescription": "Wygrana bonusu koła",
+    "overallChances": "Łączna szansa wygrania nagrody dla danej stawki: 1 na {odds}.",
+    "prizeDivision": "Stopień wygranej",
+    "prizeRemaining": "Pozostało do wygrania",
+    "oddsPerPlay": "Szansa na wygraną"
+  },
+  "title": "Antyki",
+  "MenuCommand": {
+    "price": "Cena",
+    "stake": "Stawka",
+    "howToPlay": "Zasady gry",
+    "paytable": "Tabela wygranych",
+    "close": "Zamknij",
+    "audio": {
+      "sound": "Dźwięk",
+      "on": "Wł.",
+      "off": "Wył."
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Błąd: ",
+    "genericErrorText": "Wystąpił błąd wewnętrzny. WYJDŹ i uruchom ponownie grę."
+  },
+  "Game": {
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "OPŁATA ZA LOS",
+    "ticketSelect_ticketCost": "OPŁATA ZA LOS",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "DEMO "
+    },
+    "footer_win": {
+      "BUY": "WYGRANA",
+      "TRY": "WYGRANA DEMO"
+    },
+    "button_buy": {
+      "BUY": "PŁACĘ",
+      "TRY": "DEMO"
+    },
+    "button_try": "DEMO",
+    "button_continue": "KONTYNUUJ",
+		"button_retry": "PRÓBUJ PONOWNIE",
+    "button_moveToMoney": "GRAJ ZA PIENIĄDZE",
+    "button_autoPlay": "AUTO",
+    "button_stop": "STOP",
+    "button_playAgain": {
+      "BUY": "GRAJ PONOWNIE",
+      "TRY": "SPRÓBUJ PONOWNIE"
+    },
+    "button_tryAgain": "SPRÓBUJ PONOWNIE",
+    "button_ok": "OK",
+    "button_exit": "WYJDŹ",
+    "wb_button_start": "ZAKRĘĆ",
+    "error_button_exit": "WYJDŹ",
+    "error_title": "BŁĄD",
+    "message_nonWin": "POWODZENIA\nNASTĘPNYM RAZEM",
+    "message_win": {
+      "BUY": "WYGRANA ŁĄCZNA",
+      "TRY": "DZIĘKUJEMY ZA GRĘ! MOŻNA BYŁO WYGRAĆ"
+    },
+    "plateBonus": "BONUS",
+    "coinDesc": "Wybieraj monety, aby odkrywać nagrody.\nOdkryj symbol ZBIERZ, aby zakończyć bonus.",
+    "coinTotal": "WYGRANA BONUSOWA {0}",
+    "coinCollect": "ZBIERZ",
+    "wheelDesc": "Naciśnij przycisk ZAKRĘĆ, aby zakręcić kołem.",
+    "wheelSpin": "WYGRANA BONUSOWA",
+    "wheelWin": "WYGRANA BONUSOWA",
+    "youWon": "WYGRANA BONUSOWA {0}",
+    "howToPlay": "ZASADY GRY",
+    "coinBonus": "ZŁOTE MONETY",
+    "wheelBonus": "ZŁOTE KOŁO",
+    "page1": "Wybierz pole, aby odkryć symbol oraz wygraną.\n\nDopasuj trzy takie same symbole, aby wygrać.\n\nOdkryj symbole bonusowe, aby wejść do rundy bonusowej.\n\n",
+    "page2": "Wybierz monety, aby odkrywać kwoty wygranych bonusowych.\n\nOdkryj symbol ZBIERZ, aby zakończyć bonus.",
+    "page3": "Naciśnij przycisk zakręć, aby zakręcić kołem.\n\nWygraj kwotę podświetloną po zatrzymaniu koła.",
+    "winUpTo": "WYGRAJ DO",
+    "winUpTo2": "{0}!",
+    "revealForBonus": "RUNDY BONUSOWE"
+  }
+}

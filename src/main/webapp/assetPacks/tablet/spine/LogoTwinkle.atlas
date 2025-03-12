@@ -1,0 +1,13 @@
+
+LogoTwinkle.png
+size: 49,54
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+star
+  rotate: false
+  xy: 2, 2
+  size: 45, 50
+  orig: 46, 50
+  offset: 1, 0
+  index: -1

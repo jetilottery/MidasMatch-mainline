@@ -1,0 +1,92 @@
+﻿{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "är {@minRTP} %",
+    "RTPrange": "är från {@minRTP} % till {@maxRTP} %",
+    "paybackTitle": "Förväntad återbetalning",
+    "paybackBody": "I det här spelet är den långsiktiga, teoretiskt förväntade återbetalningen {RTP}.",
+    "subheading": "Lottkostnad: {ticketCost}",
+    "prizeLevel": "Prisnivå",
+    "prizeValue": "Prisvärde",
+    "description": "Beskrivning",
+    "tilePrizeDescription": "Symbolmatchningsvinst",
+    "coinPrizeDescription": "Myntbonusvinst",
+    "wheelPrizeDescription": "Hjulbonusvinst",
+	"overallChances": "Sannolikheten att vinna ett pris är 1 på {odds} varje gång man spelar.",
+    "prizeDivision": "Prisindelning",
+    "prizeRemaining": "Ungefärligt antal återstående priser",
+    "oddsPerPlay": "Odds per spel"
+  },
+  "title": "MALL",
+  "MenuCommand": {
+    "price": "Pris",
+    "stake": "Insats",
+    "howToPlay": "Hjälp",
+    "paytable": "Vinsttabell",
+    "close": "Stäng",
+    "audio": {
+      "sound": "Ljud",
+      "on": "På",
+      "off": "Av"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Fel: ",
+    "genericErrorText": "Ett internt fel har inträffat. LÄMNA och starta om spelet."
+  },
+  "Game": {
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "LOTTKOSTNAD",
+    "ticketSelect_ticketCost": "LOTTKOSTNAD",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "PROVA "
+    },
+    "footer_win": {
+      "BUY": "VINST",
+      "TRY": "DEMOVINST"
+    },
+    "button_buy": {
+      "BUY": "KÖP",
+      "TRY": "PROVA"
+    },
+    "button_try": "PROVA",
+    "button_continue": "FORTSÄTT",
+	"button_retry": "FÖRSÖK IGEN",
+    "button_moveToMoney": "GÅ TILL PENGAR",
+    "button_autoPlay": "AVSLÖJA ALLA",
+    "button_stop": "STOPPA",
+    "button_playAgain": {
+      "BUY": "SPELA IGEN",
+      "TRY": "PROVA IGEN"
+    },
+    "button_tryAgain": "PROVA IGEN",
+    "button_ok": "OK",
+    "button_exit": "LÄMNA",
+    "wb_button_start": "STARTA",
+    "error_button_exit": "LÄMNA",
+    "error_title": "FEL",
+    "message_nonWin": "BÄTTRE LYCKA\nNÄSTA GÅNG",
+    "message_win": {
+      "BUY": "TOTAL VINST",
+      "TRY": "TOTAL DEMOVINST"
+    },
+    "plateBonus": "BONUS",
+    "coinDesc": "Välj mynt för att avslöja priser.\nNär du avslöjar INKASSERA avslutas bonusen.",
+    "coinTotal": "BONUSVINST {0}",
+    "coinCollect": "INKASSERA",
+    "wheelDesc": "Tryck på STARTA för att snurra hjulet.",
+    "wheelSpin": "SNURRAR",
+    "wheelWin": "BONUSVINST",
+    "youWon": "BONUSVINST {0}",
+    "howToPlay": "SÅ HÄR SPELAR DU",
+    "coinBonus": "MYNTBONUS",
+    "wheelBonus": "HJULBONUS",
+    "page1": "Välj varje ruta för att avslöja en symbol och ett prisbelopp.\n\nNär du hittar tre identiska symboler vinner du ett pris.\n\nAvslöja ett guldmynt för att komma till bonusspelet.\n\n",
+    "page2": "Välj mynt för att avslöja priser.\n\nNär du avslöjar INKASSERA avslutas bonusen.",
+    "page3": "Tryck på STARTA för att snurra hjulet.\n\nNär hjulet stannar vinner du det markerade beloppet.",
+    "winUpTo": "VINN UPP TILL",
+    "winUpTo2": "{0}!",
+    "revealForBonus": "AVSLÖJA ETT GULDMYNT\nFÖR ATT KOMMA TILL BONUSSPELET"
+  }
+}

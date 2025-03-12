@@ -1,0 +1,9 @@
+{
+  "showHowToPlayOnLoad": false,
+  "autoPlayPlayerNumberInterval": 1.3,
+  "autoPlayPlayerRowInterval": 6,
+  "autoPlayCoinBonusInterval": 0.35,
+  "showResultScreen": true,
+  "suppressNonWinResultPlaque": false,
+  "consoleEnabledDuringPlay": true
+}

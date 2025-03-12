@@ -1,0 +1,101 @@
+{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "is {@minRTP}%",
+        "RTPrange": "is from {@minRTP}% to {@maxRTP}%",
+        "paybackTitle": "Expected Payback",
+        "paybackBody": "For this game, the long-term, theoretically-expected payback {RTP}.",
+        "subheading": "Ticket Cost: {ticketCost}",
+        "prizeLevel": "Prize Level",
+        "prizeValue": "Prize Value",
+        "description": "Description",
+        "tilePrizeDescription": "Number Match Win",
+        "coinPrizeDescription": "Coin Bonus Win",
+        "wheelPrizeDescription": "Wheel Bonus Win",
+        "overallChances": "There is a 1 in {odds} overall chance of winning a prize on each play.",
+        "prizeDivision": "Prize Division",
+        "prizeRemaining": "Approximate Prizes Remaining",
+        "oddsPerPlay": "Odds Per Play"
+    },
+    "title": "TEMPLATE",
+    "MenuCommand":
+    {
+        "price": "Price",
+        "stake": "Stake",
+        "howToPlay": "Help",
+        "paytable": "Paytable",
+        "close": "Close",
+        "audio":
+        {
+            "sound": "Sound",
+            "on": "On",
+            "off": "Off"
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Error: ",
+        "genericErrorText": "There has been an internal error. EXIT and relaunch the game."
+    },
+    "Game":
+    {
+        "footer_balance": "BALANCE",
+        "footer_ticketCost": "TICKET COST",
+        "ticketSelect_ticketCost": "TICKET COST",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": "TRY "
+        },
+        "footer_win":
+        {
+            "BUY": "WIN",
+            "TRY": "DEMO WIN"
+        },
+        "button_buy":
+        {
+            "BUY": "BUY",
+            "TRY": "TRY"
+        },
+        "button_try": "TRY",
+        "button_continue": "CONTINUE",
+        "button_moveToMoney": "MOVE TO MONEY",
+        "button_autoPlay": "REVEAL ALL",
+        "button_stop": "STOP",
+        "button_playAgain":
+        {
+            "BUY": "PLAY AGAIN",
+            "TRY": "TRY AGAIN"
+        },
+        "button_tryAgain": "TRY AGAIN",
+        "button_ok": "OK",
+        "button_exit": "EXIT",
+        "wb_button_start": "START",
+        "error_button_exit": "EXIT",
+        "error_title": "ERROR",
+        "message_nonWin": "BETTER LUCK\nNEXT TIME",
+        "message_win":
+        {
+            "BUY": "CONGRATULATIONS!\nYOU HAVE WON",
+            "TRY": "THANKS FOR PLAYING!\nYOU COULD HAVE WON"
+        },
+        "plateBonus": "BONUS",
+        "coinDesc": "Select coins to reveal prizes.\nReveal COLLECT to end the bonus.",
+        "coinTotal": "BONUS WIN {0}",
+        "coinCollect": "COLLECT",
+        "wheelDesc": "Press START to spin the wheel.",
+        "wheelSpin": "SPINNING",
+        "wheelWin": "BONUS WIN",
+        "youWon": "BONUS WIN {0}",
+        "howToPlay": "HOW TO PLAY",
+        "coinBonus": "COIN BONUS",
+        "wheelBonus": "WHEEL BONUS",
+        "page1": "Select each tile to reveal a symbol and a prize amount.\n\nFind three identical symbols to win a prize.\n\nReveal a gold coin to enter the bonus game.\n\n",
+        "page2": "Select coins to reveal prizes.\n\nReveal COLLECT to end the bonus.",
+        "page3": "Press START to spin the wheel.\n\nWin the highlighted amount when the wheel stops.",
+        "winUpTo": "WIN UP TO",
+        "winUpTo2": "{0}!",
+        "revealForBonus": "REVEAL A GOLD COIN\nTO ENTER THE BONUS GAME"
+    }
+}

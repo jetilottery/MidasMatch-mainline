@@ -1,0 +1,92 @@
+﻿{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "é {@minRTP}%",
+    "RTPrange": "é de {@minRTP}% a {@maxRTP}%",
+    "paybackTitle": "Retorno esperado",
+    "paybackBody": "Para este jogo, o retorno esperado teórico de longo prazo é {RTP}.",
+    "subheading": "Valor da aposta: {ticketCost}",
+    "prizeLevel": "Nível do Prêmio",
+    "prizeValue": "Valor do Prêmio",
+    "description": "Descrição",
+    "tilePrizeDescription": "Prêmio de Acerto de Simbolo",
+    "coinPrizeDescription": "Prêmio do Bônus de Moedas",
+    "wheelPrizeDescription": "Prêmio do Bônus da Roda",
+	"overallChances": "Há uma chance geral de 1 em {odds} de ganhar um prêmio em cada jogada.",
+	"prizeDivision": "Divisão do Prêmio",
+	"prizeRemaining": "Prêmios Restantes Aproximadamente",
+	"oddsPerPlay": "Chances por Jogada"
+  },
+  "title": "Toque de Midas",
+  "MenuCommand": {
+    "price": "Preço",
+    "stake": "Aposta",
+    "howToPlay": "Ajuda",
+    "paytable": "Tabela de Pagamento",
+    "close": "Fechar",
+    "audio": {
+      "sound": "Som",
+      "on": "Ativado",
+      "off": "Desativado"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Erro: ",
+    "genericErrorText": "Ocorreu um erro interno. SAIA do jogo e reinicie novamente."
+  },
+  "Game": {
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "VALOR DA APOSTA",
+    "ticketSelect_ticketCost": "VALOR DA APOSTA",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "TENTAR "
+    },
+    "footer_win": {
+      "BUY": "PRÊMIO",
+      "TRY": "PRÊMIO DE DEMONSTRAÇÃO"
+    },
+    "button_buy": {
+      "BUY": "COMPRAR",
+      "TRY": "TENTAR"
+    },
+    "button_try": "TENTAR",
+    "button_continue": "CONTINUAR",
+	"button_retry": "TENTAR NOVAMENTE",
+    "button_moveToMoney": "PASSAR PARA DINHEIRO",
+    "button_autoPlay": "REVELAR TUDO",
+    "button_stop": "PARAR",
+    "button_playAgain": {
+      "BUY": "JOGAR NOVAMENTE",
+      "TRY": "TENTAR NOVAMENTE"
+    },
+    "button_tryAgain": "TENTAR NOVAMENTE",
+    "button_ok": "OK",
+    "button_exit": "SAIR",
+    "wb_button_start": "INICIAR",
+    "error_button_exit": "SAIR",
+    "error_title": "ERRO",
+    "message_nonWin": "MAIS SORTE\nNA PRÓXIMA VEZ",
+    "message_win": {
+      "BUY": "PRÊMIO TOTAL",
+      "TRY": "PRÊMIO TOTAL DA DEMONSTRAÇÃO"
+    },
+    "plateBonus": "BÔNUS",
+    "coinDesc": "Selecione as moedas para revelar os prêmios.\nAo revelar COLETAR o bônus termina.",
+    "coinTotal": "PRÊMIO DO BÔNUS\n{0}",
+    "coinCollect": "COLETAR",
+    "wheelDesc": "Pressione INICIAR para girar a roda.",
+    "wheelSpin": "GIRANDO",
+    "wheelWin": "PRÊMIO DO BÔNUS",
+    "youWon": "PRÊMIO DO BÔNUS\n{0}",
+    "howToPlay": "COMO JOGAR",
+    "coinBonus": "BÔNUS DE MOEDAS",
+    "wheelBonus": "BÔNUS DA RODA",
+    "page1": "Selecione cada parte para revelar um símbolo e um valor de prêmio.\n\nEncontre três símbolos idênticos para ganhar um prêmio.\n\nAo revelar uma moeda de ouro, você entra no jogo bônus.\n\n",
+    "page2": "Selecione as moedas para revelar os prêmios.\n\nAo revelar COLETAR o bônus termina.",
+    "page3": "Pressione Iniciar para girar a roda.\n\nGanhe o valor em destaque quando a roda parar.",
+    "winUpTo": "GANHE ATÉ",
+    "winUpTo2": "{0}!",
+    "revealForBonus": "AO REVELAR UMA MOEDA DE OURO\nVOCÊ ENTRA NO JOGO BÔNUS"
+  }
+}

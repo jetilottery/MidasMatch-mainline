@@ -1,0 +1,9 @@
+{
+  "game": {
+    "name": "MidasMatch",
+    "id": "300-2166-0",
+    "framework": "jet",
+    "version": "1.0",
+    "studio": "interactive"
+  }
+}

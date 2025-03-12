@@ -1,0 +1,945 @@
+
+transitions.jpg
+size: 504,504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/Transition
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+transitions2.jpg
+size: 1949,549
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/coinParticles/coinParticles_31
+  rotate: true
+  xy: 2, 364
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+nonTrans/coinParticles/coinParticles_32
+  rotate: true
+  xy: 2, 179
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+nonTrans/coinParticles/coinParticles_33
+  rotate: false
+  xy: 2, 2
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+nonTrans/coinParticles/coinParticles_34
+  rotate: true
+  xy: 179, 364
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+nonTrans/coinParticles/coinParticles_35
+  rotate: true
+  xy: 179, 179
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+nonTrans/coinParticles/coinParticles_36
+  rotate: false
+  xy: 187, 2
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+nonTrans/coinParticles/coinParticles_37
+  rotate: true
+  xy: 356, 364
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+nonTrans/coinParticles/coinParticles_38
+  rotate: true
+  xy: 356, 179
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+nonTrans/coinParticles/coinParticles_39
+  rotate: false
+  xy: 372, 2
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+nonTrans/coinParticles/coinParticles_40
+  rotate: true
+  xy: 533, 364
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+nonTrans/coinParticles/coinParticles_41
+  rotate: true
+  xy: 533, 179
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+nonTrans/coinParticles/coinParticles_42
+  rotate: false
+  xy: 557, 2
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+nonTrans/coinParticles/coinParticles_43
+  rotate: true
+  xy: 710, 364
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+nonTrans/coinParticles/coinParticles_44
+  rotate: true
+  xy: 710, 179
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+nonTrans/coinParticles/coinParticles_45
+  rotate: false
+  xy: 742, 2
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+nonTrans/coinParticles/coinParticles_46
+  rotate: true
+  xy: 887, 364
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+nonTrans/coinParticles/coinParticles_47
+  rotate: true
+  xy: 887, 179
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+nonTrans/coinParticles/coinParticles_48
+  rotate: false
+  xy: 927, 2
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+nonTrans/coinParticles/coinParticles_49
+  rotate: true
+  xy: 1064, 364
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+nonTrans/coinParticles/coinParticles_50
+  rotate: true
+  xy: 1064, 179
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+nonTrans/coinParticles/coinParticles_51
+  rotate: false
+  xy: 1112, 2
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+nonTrans/coinParticles/coinParticles_52
+  rotate: true
+  xy: 1241, 364
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+nonTrans/coinParticles/coinParticles_53
+  rotate: true
+  xy: 1241, 179
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+nonTrans/coinParticles/coinParticles_54
+  rotate: false
+  xy: 1297, 2
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+nonTrans/coinParticles/coinParticles_55
+  rotate: true
+  xy: 1418, 364
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+nonTrans/coinParticles/coinParticles_56
+  rotate: true
+  xy: 1418, 179
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+nonTrans/coinParticles/coinParticles_57
+  rotate: false
+  xy: 1482, 2
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+nonTrans/coinParticles/coinParticles_58
+  rotate: false
+  xy: 1595, 372
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+nonTrans/coinParticles/coinParticles_59
+  rotate: true
+  xy: 1595, 187
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+nonTrans/coinParticles/coinParticles_60
+  rotate: true
+  xy: 1667, 2
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+nonTrans/coinParticles/coinParticles_61
+  rotate: true
+  xy: 1772, 187
+  size: 183, 175
+  orig: 183, 175
+  offset: 0, 0
+  index: -1
+
+transitions3.jpg
+size: 2037,2037
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/partShower/PartShower01_1
+  rotate: false
+  xy: 2, 1630
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower02_1
+  rotate: false
+  xy: 2, 1223
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower03_1
+  rotate: false
+  xy: 409, 1630
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower04_1
+  rotate: false
+  xy: 2, 816
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower05_1
+  rotate: false
+  xy: 409, 1223
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower06_1
+  rotate: false
+  xy: 816, 1630
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower07_1
+  rotate: false
+  xy: 2, 409
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower08_1
+  rotate: false
+  xy: 409, 816
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower09_1
+  rotate: false
+  xy: 816, 1223
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower10_1
+  rotate: false
+  xy: 1223, 1630
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower11_1
+  rotate: false
+  xy: 2, 2
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower12_1
+  rotate: false
+  xy: 409, 409
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower13_1
+  rotate: false
+  xy: 816, 816
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower14_1
+  rotate: false
+  xy: 1223, 1223
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower15_1
+  rotate: false
+  xy: 1630, 1630
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower16_1
+  rotate: false
+  xy: 409, 2
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower17_1
+  rotate: false
+  xy: 816, 409
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower18_1
+  rotate: false
+  xy: 1223, 816
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower19_1
+  rotate: false
+  xy: 1630, 1223
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower20_1
+  rotate: false
+  xy: 816, 2
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower21_1
+  rotate: false
+  xy: 1223, 409
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower22_1
+  rotate: false
+  xy: 1630, 816
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower23_1
+  rotate: false
+  xy: 1223, 2
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower24_1
+  rotate: false
+  xy: 1630, 409
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower25_1
+  rotate: false
+  xy: 1630, 2
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+
+transitions4.jpg
+size: 2037,2037
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/partShower/PartShower26_1
+  rotate: false
+  xy: 2, 1630
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower27_1
+  rotate: false
+  xy: 2, 1223
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower28_1
+  rotate: false
+  xy: 409, 1630
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower29_1
+  rotate: false
+  xy: 2, 816
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower30_1
+  rotate: false
+  xy: 409, 1223
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower31_1
+  rotate: false
+  xy: 816, 1630
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower32_1
+  rotate: false
+  xy: 2, 409
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower33_1
+  rotate: false
+  xy: 409, 816
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower34_1
+  rotate: false
+  xy: 816, 1223
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower35_1
+  rotate: false
+  xy: 1223, 1630
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower36_1
+  rotate: false
+  xy: 2, 2
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower37_1
+  rotate: false
+  xy: 409, 409
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower38_1
+  rotate: false
+  xy: 816, 816
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower39_1
+  rotate: false
+  xy: 1223, 1223
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower40_1
+  rotate: false
+  xy: 1630, 1630
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower41_1
+  rotate: false
+  xy: 409, 2
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower42_1
+  rotate: false
+  xy: 816, 409
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower43_1
+  rotate: false
+  xy: 1223, 816
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower44_1
+  rotate: false
+  xy: 1630, 1223
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower45_1
+  rotate: false
+  xy: 816, 2
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower46_1
+  rotate: false
+  xy: 1223, 409
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+nonTrans/partShower/PartShower47_1
+  rotate: false
+  xy: 1630, 816
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+
+transitions.png
+size: 1086,544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Trans/bonusCoinLarge
+  rotate: false
+  xy: 2, 2
+  size: 540, 540
+  orig: 540, 540
+  offset: 0, 0
+  index: -1
+Trans/bonusWheelCoinLarge
+  rotate: false
+  xy: 544, 2
+  size: 540, 540
+  orig: 540, 540
+  offset: 0, 0
+  index: -1
+
+transitions2.png
+size: 1454,84
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Trans/_3Dcoins/FingerCoin/FingerCoinFlip_00
+  rotate: false
+  xy: 2, 3
+  size: 78, 79
+  orig: 90, 90
+  offset: 6, 5
+  index: -1
+Trans/_3Dcoins/FingerCoin/FingerCoinFlip_01
+  rotate: true
+  xy: 322, 4
+  size: 78, 77
+  orig: 90, 90
+  offset: 6, 8
+  index: -1
+Trans/_3Dcoins/FingerCoin/FingerCoinFlip_02
+  rotate: true
+  xy: 633, 3
+  size: 79, 73
+  orig: 90, 90
+  offset: 5, 12
+  index: -1
+Trans/_3Dcoins/FingerCoin/FingerCoinFlip_03
+  rotate: true
+  xy: 921, 2
+  size: 80, 64
+  orig: 90, 90
+  offset: 5, 18
+  index: -1
+Trans/_3Dcoins/FingerCoin/FingerCoinFlip_04
+  rotate: true
+  xy: 1167, 2
+  size: 80, 49
+  orig: 90, 90
+  offset: 5, 26
+  index: -1
+Trans/_3Dcoins/FingerCoin/FingerCoinFlip_05
+  rotate: true
+  xy: 1350, 2
+  size: 80, 32
+  orig: 90, 90
+  offset: 5, 33
+  index: -1
+Trans/_3Dcoins/FingerCoin/FingerCoinFlip_06
+  rotate: true
+  xy: 1435, 2
+  size: 80, 17
+  orig: 90, 90
+  offset: 5, 34
+  index: -1
+Trans/_3Dcoins/FingerCoin/FingerCoinFlip_07
+  rotate: true
+  xy: 1310, 2
+  size: 80, 38
+  orig: 90, 90
+  offset: 5, 20
+  index: -1
+Trans/_3Dcoins/FingerCoin/FingerCoinFlip_08
+  rotate: true
+  xy: 1110, 2
+  size: 80, 55
+  orig: 90, 90
+  offset: 5, 11
+  index: -1
+Trans/_3Dcoins/FingerCoin/FingerCoinFlip_09
+  rotate: true
+  xy: 852, 2
+  size: 80, 67
+  orig: 90, 90
+  offset: 5, 6
+  index: -1
+Trans/_3Dcoins/FingerCoin/FingerCoinFlip_10
+  rotate: true
+  xy: 557, 4
+  size: 78, 74
+  orig: 90, 90
+  offset: 6, 4
+  index: -1
+Trans/_3Dcoins/FingerCoin/FingerCoinFlip_11
+  rotate: false
+  xy: 82, 3
+  size: 78, 79
+  orig: 90, 90
+  offset: 6, 4
+  index: -1
+Trans/_3Dcoins/FingerCoin/FingerCoinFlip_12
+  rotate: false
+  xy: 162, 3
+  size: 78, 79
+  orig: 90, 90
+  offset: 6, 6
+  index: -1
+Trans/_3Dcoins/FingerCoin/FingerCoinFlip_13
+  rotate: true
+  xy: 480, 4
+  size: 78, 75
+  orig: 90, 90
+  offset: 6, 10
+  index: -1
+Trans/_3Dcoins/FingerCoin/FingerCoinFlip_14
+  rotate: true
+  xy: 781, 2
+  size: 80, 69
+  orig: 90, 90
+  offset: 5, 15
+  index: -1
+Trans/_3Dcoins/FingerCoin/FingerCoinFlip_15
+  rotate: true
+  xy: 1050, 2
+  size: 80, 58
+  orig: 90, 90
+  offset: 5, 21
+  index: -1
+Trans/_3Dcoins/FingerCoin/FingerCoinFlip_16
+  rotate: true
+  xy: 1266, 2
+  size: 80, 42
+  orig: 90, 90
+  offset: 5, 29
+  index: -1
+Trans/_3Dcoins/FingerCoin/FingerCoinFlip_17
+  rotate: true
+  xy: 1412, 2
+  size: 80, 21
+  orig: 90, 90
+  offset: 5, 37
+  index: -1
+Trans/_3Dcoins/FingerCoin/FingerCoinFlip_18
+  rotate: true
+  xy: 1384, 2
+  size: 80, 26
+  orig: 90, 90
+  offset: 5, 28
+  index: -1
+Trans/_3Dcoins/FingerCoin/FingerCoinFlip_19
+  rotate: true
+  xy: 1218, 2
+  size: 80, 46
+  orig: 90, 90
+  offset: 5, 16
+  index: -1
+Trans/_3Dcoins/FingerCoin/FingerCoinFlip_20
+  rotate: true
+  xy: 987, 2
+  size: 80, 61
+  orig: 90, 90
+  offset: 5, 8
+  index: -1
+Trans/_3Dcoins/FingerCoin/FingerCoinFlip_21
+  rotate: true
+  xy: 708, 2
+  size: 80, 71
+  orig: 90, 90
+  offset: 5, 5
+  index: -1
+Trans/_3Dcoins/FingerCoin/FingerCoinFlip_22
+  rotate: true
+  xy: 401, 4
+  size: 78, 77
+  orig: 90, 90
+  offset: 6, 4
+  index: -1
+Trans/_3Dcoins/FingerCoin/FingerCoinFlip_23
+  rotate: false
+  xy: 242, 3
+  size: 78, 79
+  orig: 90, 90
+  offset: 6, 5
+  index: -1
+
+transitions3.png
+size: 1454,84
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Trans/_3Dcoins/WheelCoin/WheelCoinFlip_00
+  rotate: false
+  xy: 2, 3
+  size: 78, 79
+  orig: 90, 90
+  offset: 6, 5
+  index: -1
+Trans/_3Dcoins/WheelCoin/WheelCoinFlip_01
+  rotate: true
+  xy: 322, 4
+  size: 78, 77
+  orig: 90, 90
+  offset: 6, 8
+  index: -1
+Trans/_3Dcoins/WheelCoin/WheelCoinFlip_02
+  rotate: true
+  xy: 633, 3
+  size: 79, 73
+  orig: 90, 90
+  offset: 5, 12
+  index: -1
+Trans/_3Dcoins/WheelCoin/WheelCoinFlip_03
+  rotate: true
+  xy: 921, 2
+  size: 80, 64
+  orig: 90, 90
+  offset: 5, 18
+  index: -1
+Trans/_3Dcoins/WheelCoin/WheelCoinFlip_04
+  rotate: true
+  xy: 1167, 2
+  size: 80, 49
+  orig: 90, 90
+  offset: 5, 26
+  index: -1
+Trans/_3Dcoins/WheelCoin/WheelCoinFlip_05
+  rotate: true
+  xy: 1350, 2
+  size: 80, 32
+  orig: 90, 90
+  offset: 5, 33
+  index: -1
+Trans/_3Dcoins/WheelCoin/WheelCoinFlip_06
+  rotate: true
+  xy: 1435, 2
+  size: 80, 17
+  orig: 90, 90
+  offset: 5, 34
+  index: -1
+Trans/_3Dcoins/WheelCoin/WheelCoinFlip_07
+  rotate: true
+  xy: 1310, 2
+  size: 80, 38
+  orig: 90, 90
+  offset: 5, 20
+  index: -1
+Trans/_3Dcoins/WheelCoin/WheelCoinFlip_08
+  rotate: true
+  xy: 1110, 2
+  size: 80, 55
+  orig: 90, 90
+  offset: 5, 11
+  index: -1
+Trans/_3Dcoins/WheelCoin/WheelCoinFlip_09
+  rotate: true
+  xy: 852, 2
+  size: 80, 67
+  orig: 90, 90
+  offset: 5, 6
+  index: -1
+Trans/_3Dcoins/WheelCoin/WheelCoinFlip_10
+  rotate: true
+  xy: 557, 4
+  size: 78, 74
+  orig: 90, 90
+  offset: 6, 4
+  index: -1
+Trans/_3Dcoins/WheelCoin/WheelCoinFlip_11
+  rotate: false
+  xy: 82, 3
+  size: 78, 79
+  orig: 90, 90
+  offset: 6, 4
+  index: -1
+Trans/_3Dcoins/WheelCoin/WheelCoinFlip_12
+  rotate: false
+  xy: 162, 3
+  size: 78, 79
+  orig: 90, 90
+  offset: 6, 6
+  index: -1
+Trans/_3Dcoins/WheelCoin/WheelCoinFlip_13
+  rotate: true
+  xy: 480, 4
+  size: 78, 75
+  orig: 90, 90
+  offset: 6, 10
+  index: -1
+Trans/_3Dcoins/WheelCoin/WheelCoinFlip_14
+  rotate: true
+  xy: 781, 2
+  size: 80, 69
+  orig: 90, 90
+  offset: 5, 15
+  index: -1
+Trans/_3Dcoins/WheelCoin/WheelCoinFlip_15
+  rotate: true
+  xy: 1050, 2
+  size: 80, 58
+  orig: 90, 90
+  offset: 5, 21
+  index: -1
+Trans/_3Dcoins/WheelCoin/WheelCoinFlip_16
+  rotate: true
+  xy: 1266, 2
+  size: 80, 42
+  orig: 90, 90
+  offset: 5, 29
+  index: -1
+Trans/_3Dcoins/WheelCoin/WheelCoinFlip_17
+  rotate: true
+  xy: 1412, 2
+  size: 80, 21
+  orig: 90, 90
+  offset: 5, 37
+  index: -1
+Trans/_3Dcoins/WheelCoin/WheelCoinFlip_18
+  rotate: true
+  xy: 1384, 2
+  size: 80, 26
+  orig: 90, 90
+  offset: 5, 28
+  index: -1
+Trans/_3Dcoins/WheelCoin/WheelCoinFlip_19
+  rotate: true
+  xy: 1218, 2
+  size: 80, 46
+  orig: 90, 90
+  offset: 5, 16
+  index: -1
+Trans/_3Dcoins/WheelCoin/WheelCoinFlip_20
+  rotate: true
+  xy: 987, 2
+  size: 80, 61
+  orig: 90, 90
+  offset: 5, 8
+  index: -1
+Trans/_3Dcoins/WheelCoin/WheelCoinFlip_21
+  rotate: true
+  xy: 708, 2
+  size: 80, 71
+  orig: 90, 90
+  offset: 5, 5
+  index: -1
+Trans/_3Dcoins/WheelCoin/WheelCoinFlip_22
+  rotate: true
+  xy: 401, 4
+  size: 78, 77
+  orig: 90, 90
+  offset: 6, 4
+  index: -1
+Trans/_3Dcoins/WheelCoin/WheelCoinFlip_23
+  rotate: false
+  xy: 242, 3
+  size: 78, 79
+  orig: 90, 90
+  offset: 6, 5
+  index: -1

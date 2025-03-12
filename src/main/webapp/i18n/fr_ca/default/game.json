@@ -1,0 +1,92 @@
+{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "est de {@minRTP} %",
+    "RTPrange": "varie de {@minRTP} % à {@maxRTP} %",
+    "paybackTitle": "Taux de retour théorique",
+    "paybackBody": "Pour ce jeu, le taux de retour théorique moyen à long terme {RTP}.",
+    "subheading": "Coût du billet : {ticketCost}",
+    "prizeLevel": "Niveau du lot",
+    "prizeValue": "Valeur du lot",
+    "description": "Description",
+    "tilePrizeDescription": "Gain de l’association des symboles",
+    "coinPrizeDescription": "Gain du jeu boni Pièce",
+    "wheelPrizeDescription": "Gain du jeu boni de la Roue",
+    "overallChances": "Globalement, vous avez 1 chance sur {odds} de gagner un lot à chaque partie.",
+    "prizeDivision": "Répartition des lots",
+    "prizeRemaining": "Nombre approximatif de lots restants",
+    "oddsPerPlay": "Chances par partie"
+  },
+  "title": "GABARIT",
+  "MenuCommand": {
+    "price": "Prix",
+    "stake": "Mise",
+    "howToPlay": "Aide",
+    "paytable": "Table de paiement",
+    "close": "Fermer",
+    "audio": {
+      "sound": "Son",
+      "on": "Activé",
+      "off": "Désactivé"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Erreur : ",
+    "genericErrorText": "Une erreur interne est survenue. QUITTEZ le jeu et relancez-le."
+  },
+  "Game": {
+    "footer_balance": "SOLDE",
+    "footer_ticketCost": "COÛT DU BILLET",
+    "ticketSelect_ticketCost": "COÛT DU BILLET",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "ESSAYER "
+    },
+    "footer_win": {
+      "BUY": "GAIN",
+      "TRY": "GAIN FICTIF"
+    },
+    "button_buy": {
+      "BUY": "ACHETER",
+      "TRY": "ESSAYER"
+    },
+    "button_try": "ESSAYER",
+    "button_continue": "CONTINUER",
+	"button_retry": "RÉESSAYER",
+    "button_moveToMoney": "MODE ARGENT RÉEL",
+    "button_autoPlay": "TOUT AFFICHER",
+    "button_stop": "ARRÊTER",
+    "button_playAgain": {
+      "BUY": "JOUER DE NOUVEAU",
+      "TRY": "ESSAYER DE NOUVEAU"
+    },
+    "button_tryAgain": "ESSAYER DE NOUVEAU",
+    "button_ok": "OK",
+    "button_exit": "QUITTER",
+    "wb_button_start": "COMMENCER",
+    "error_button_exit": "QUITTER",
+    "error_title": "ERREUR",
+    "message_nonWin": "MEILLEURE CHANCE\nLA PROCHAINE FOIS",
+    "message_win": {
+      "BUY": "GAIN TOTAL",
+      "TRY": "GAIN FICTIF TOTAL"
+    },
+    "plateBonus": "BONI",
+    "coinDesc": "Sélectionnez des pièces pour révéler des lots.\nDécouvrez ENCAISSER pour mettre fin au jeu boni.",
+    "coinTotal": "GAIN BONI {0}",
+    "coinCollect": "ENCAISSER",
+    "wheelDesc": "Appuyez sur COMMENCER pour lancer la roue.",
+    "wheelSpin": "LA ROUE TOURNE",
+    "wheelWin": "GAIN BONI",
+    "youWon": "GAIN BONI {0}",
+    "howToPlay": "COMMENT JOUER",
+    "coinBonus": "JEU BONI PIÈCE",
+    "wheelBonus": "JEU BONI DE LA ROUE",
+    "page1": "Sélectionnez chaque tuile pour révéler un symbole et un lot.\n\nTrouvez trois symboles identiques pour gagner un lot.\n\nDécouvrez une pièce dorée pour commencer le jeu boni.\n\n",
+    "page2": "Sélectionnez des pièces pour révéler des lots.\n\nDécouvrez ENCAISSER pour mettre fin au jeu boni.",
+    "page3": "Appuyez sur COMMENCER pour lacer la roue.\n\nGagnez le montant en surbrillance lorsque la roue s’immobilise.",
+    "winUpTo": "GAGNEZ JUSQU’À",
+    "winUpTo2": "{0}!",
+    "revealForBonus": "DÉCOUVREZ UNE PIÈCE DORÉE\nPOUR COMMENCER LE JEU BONI"
+  }
+}

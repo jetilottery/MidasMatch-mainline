@@ -1,0 +1,306 @@
+
+buyButtonHighlight.jpg
+size: 1899,1801
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buyNow_02
+  rotate: false
+  xy: 2, 1544
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_43
+  rotate: false
+  xy: 2, 1544
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_03
+  rotate: false
+  xy: 2, 1287
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_04
+  rotate: false
+  xy: 412, 1544
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_05
+  rotate: false
+  xy: 2, 1030
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_06
+  rotate: false
+  xy: 412, 1287
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_07
+  rotate: false
+  xy: 822, 1544
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_08
+  rotate: false
+  xy: 2, 773
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_09
+  rotate: false
+  xy: 412, 1030
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_10
+  rotate: false
+  xy: 822, 1287
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_11
+  rotate: false
+  xy: 1232, 1544
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_12
+  rotate: false
+  xy: 2, 516
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_13
+  rotate: false
+  xy: 412, 773
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_14
+  rotate: false
+  xy: 822, 1030
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_15
+  rotate: false
+  xy: 1232, 1287
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_16
+  rotate: true
+  xy: 1642, 1391
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_17
+  rotate: false
+  xy: 2, 259
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_18
+  rotate: false
+  xy: 412, 516
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_19
+  rotate: false
+  xy: 822, 773
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_20
+  rotate: false
+  xy: 1232, 1030
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_21
+  rotate: false
+  xy: 2, 2
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_22
+  rotate: false
+  xy: 412, 259
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_23
+  rotate: false
+  xy: 822, 516
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_24
+  rotate: false
+  xy: 1232, 773
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_25
+  rotate: true
+  xy: 1642, 981
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_26
+  rotate: false
+  xy: 412, 2
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_27
+  rotate: false
+  xy: 822, 259
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_28
+  rotate: false
+  xy: 1232, 516
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_29
+  rotate: true
+  xy: 1642, 571
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_30
+  rotate: false
+  xy: 822, 2
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_31
+  rotate: false
+  xy: 1232, 259
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_32
+  rotate: false
+  xy: 1232, 2
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_33
+  rotate: true
+  xy: 1642, 161
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+
+buyButtonHighlight2.jpg
+size: 1899,516
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buyNow_34
+  rotate: false
+  xy: 2, 259
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_35
+  rotate: false
+  xy: 2, 2
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_36
+  rotate: false
+  xy: 412, 259
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_37
+  rotate: false
+  xy: 412, 2
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_38
+  rotate: false
+  xy: 822, 259
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_39
+  rotate: false
+  xy: 822, 2
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_40
+  rotate: false
+  xy: 1232, 259
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_41
+  rotate: false
+  xy: 1232, 2
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1
+buyNow_42
+  rotate: true
+  xy: 1642, 106
+  size: 408, 255
+  orig: 408, 255
+  offset: 0, 0
+  index: -1

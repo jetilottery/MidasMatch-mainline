@@ -1,0 +1,92 @@
+﻿{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "{@minRTP} %",
+    "RTPrange": "{@minRTP} % bis {@maxRTP} %",
+    "paybackTitle": "Erwartete Rückzahlung",
+    "paybackBody": "Für dieses Spiel beträgt die langfristig erwartete Rückzahlung {RTP}.",
+    "subheading": "Lospreis: {ticketCost}",
+    "prizeLevel": "Preis-Stufe",
+    "prizeValue": "Preis-Wert",
+    "description": "Beschreibung",
+    "tilePrizeDescription": "Symbolübereinstimmungs-Gewinn",
+    "coinPrizeDescription": "Münz-Bonusgewinn",
+    "wheelPrizeDescription": "Rad-Bonusgewinn:",
+	"overallChances": "Es gibt eine Chance von insgesamt 1:{odds}, bei jedem Spiel einen Preis zu gewinnen.",
+    "prizeDivision": "Aufteilung der Preise",
+    "prizeRemaining": "Ungefähre Anzahl verbliebener Preise",
+    "oddsPerPlay": "Chancen pro Spiel"
+  },
+  "title": "VORLAGE",
+  "MenuCommand": {
+    "price": "Preis",
+    "stake": "Einsatz",
+    "howToPlay": "Hilfe",
+    "paytable": "Gewinntabelle",
+    "close": "Schliessen",
+    "audio": {
+      "sound": "Sound",
+      "on": "Ein",
+      "off": "Aus"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Fehler: ",
+    "genericErrorText": "Es ist ein interner Fehler aufgetreten. Spiel VERLASSEN und neu starten."
+  },
+  "Game": {
+    "footer_balance": "GUTHABEN",
+    "footer_ticketCost": "LOSPREIS",
+    "ticketSelect_ticketCost": "LOSPREIS",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "AUSPROBIEREN "
+    },
+    "footer_win": {
+      "BUY": "GEWINN",
+      "TRY": "DEMO-GEWINN"
+    },
+    "button_buy": {
+      "BUY": "KAUFEN",
+      "TRY": "AUSPROBIEREN"
+    },
+    "button_try": "AUSPROBIEREN",
+    "button_continue": "FORTSETZEN",
+	"button_retry": "ERNEUT VERSUCHEN",
+    "button_moveToMoney": "ZU ECHTGELD WECHSELN",
+    "button_autoPlay": "ALLE AUFDECKEN",
+    "button_stop": "STOPP",
+    "button_playAgain": {
+      "BUY": "ERNEUT SPIELEN",
+      "TRY": "ERNEUT VERSUCHEN"
+    },
+    "button_tryAgain": "ERNEUT VERSUCHEN",
+    "button_ok": "OKAY",
+    "button_exit": "BEENDEN",
+    "wb_button_start": "START",
+    "error_button_exit": "BEENDEN",
+    "error_title": "FEHLER",
+    "message_nonWin": "MEHR GLÜCK\nBEIM NÄCHSTEN MAL",
+    "message_win": {
+      "BUY": "GESAMTGEWINN",
+      "TRY": "DEMO-GEWINN GESAMT"
+    },
+    "plateBonus": "BONUS",
+    "coinDesc": "Wählen Sie Münzen aus, um Preise aufzudecken.\nDecken Sie KASSIEREN auf, um den Bonus zu beenden.",
+    "coinTotal": "BONUSGEWINN: {0}",
+    "coinCollect": "KASSIEREN",
+    "wheelDesc": "Drücken Sie START, um das Rad zu drehen.",
+    "wheelSpin": "DREHT",
+    "wheelWin": "BONUSGEWINN",
+    "youWon": "BONUSGEWINN: {0}",
+    "howToPlay": "SPIELANLEITUNG",
+    "coinBonus": "MÜNZBONUS",
+    "wheelBonus": "RAD-BONUS",
+    "page1": "Wählen Sie eine der Kacheln aus, um ein Symbol und einen Preisbetrag aufzudecken.\n\nFinden Sie drei gleiche Symbole, um einen Preis zu gewinnen.\n\nDecken Sie eine Goldmünze auf, um ins Bonusspiel zu gelangen.\n\n",
+    "page2": "Wählen Sie Münzen aus, um Preise aufzudecken.\n\nDecken Sie KASSIEREN auf, um den Bonus zu beenden.",
+    "page3": "Drücken Sie START, um das Rad zu drehen.\n\nSie gewinnen den hervorgehobenen Betrag, wenn das Rad anhält.",
+    "winUpTo": "GEWINNEN SIE BIS ZU",
+    "winUpTo2": "{0}!",
+    "revealForBonus": "DECKEN SIE EINE GOLDMÜNZE AUF,\nUM INS BONUSSPIEL ZU GELANGEN"
+  }
+}

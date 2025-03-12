@@ -1,0 +1,88 @@
+
+backgroundAnims.png
+size: 1379,1384
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG/BG
+  rotate: false
+  xy: 2, 693
+  size: 1224, 689
+  orig: 1224, 689
+  offset: 0, 0
+  index: -1
+BG/cloud1
+  rotate: true
+  xy: 1162, 259
+  size: 432, 195
+  orig: 434, 196
+  offset: 1, 1
+  index: -1
+BG/cloud2
+  rotate: true
+  xy: 1228, 1079
+  size: 303, 149
+  orig: 305, 151
+  offset: 1, 1
+  index: -1
+BG/portrait_background
+  rotate: true
+  xy: 2, 2
+  size: 689, 1158
+  orig: 689, 1178
+  offset: 0, 0
+  index: -1
+BG/star
+  rotate: true
+  xy: 1228, 1038
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+
+backgroundAnims.jpg
+size: 1444,1745
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_jpg/CoinBG
+  rotate: false
+  xy: 2, 2
+  size: 1440, 810
+  orig: 1440, 810
+  offset: 0, 0
+  index: -1
+BG_jpg/Sky
+  rotate: false
+  xy: 2, 814
+  size: 1440, 522
+  orig: 1440, 522
+  offset: 0, 0
+  index: -1
+BG_jpg/coinNoise
+  rotate: false
+  xy: 2, 1338
+  size: 720, 405
+  orig: 720, 405
+  offset: 0, 0
+  index: -1
+
+backgroundAnims2.jpg
+size: 1626,1426
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_jpg/port_CoinBG
+  rotate: false
+  xy: 814, 45
+  size: 810, 1379
+  orig: 810, 1379
+  offset: 0, 0
+  index: -1
+BG_jpg/wheelBonusPortrait
+  rotate: false
+  xy: 2, 2
+  size: 810, 1422
+  orig: 810, 1422
+  offset: 0, 0
+  index: -1
